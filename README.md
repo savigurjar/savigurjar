@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/savita_gurjar30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savita_gurjar30" height="30" width="40" /></a>
+<a href="https://twitter.com/savita_gurjar30" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="savita_gurjar30" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/savi-g-2b669721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/savi-g-2b669721a/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/savigurjar1201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="savigurjar1201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/savigurjar1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/savigurjar1201" height="30" width="40" /></a>
